@@ -6,7 +6,7 @@ This action prints "Hello world"  or "Hello" + name of a specified person to the
 
 ### `who`
 
-**required** The name of the person to greet.  Defaults to `"World"`.
+**Required** The name of the person to greet.  Defaults to `"World"`.
 
 ## Outputs
 

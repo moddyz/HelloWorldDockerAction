@@ -1,6 +1,6 @@
 name: Private Main
 on: 
-	- push
+  - push
 
 jobs:
   hello_world_job:
